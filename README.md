@@ -1,4 +1,1 @@
-# QualiVidaPrototype
-An android application prototype. No DB implementation, just the layout of the project;
-Just a student project, nothing major. Still learning the ropes of Android Studio.
-
+Protótipo em java/android desenvolvido como projeto semestral da matéria Desenvolvimento Android, 6º semestre do curso de Engenharia de Software, um aplicativo responsável por monitoramento e criação de consultas médicas. Sem implementação de banco de dados pois estava fora do escopo do protótipo.
